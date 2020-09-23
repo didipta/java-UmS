@@ -1,0 +1,7 @@
+
+INSERTED
+Officer name:Y
+Officer ID:19-38987-1
+Officer Working Fild:Accounts
+Officer Salary:500000.0Tk
+______________

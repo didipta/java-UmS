@@ -1,0 +1,11 @@
+
+INSERTED
+Student name:Dipta,saha
+Student ID:19-39379-1
+Student Cgpa:3.5
+Complet Course :59
+______________
+
+REMOVED
+Student ID:19-39379-1
+______________

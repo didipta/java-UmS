@@ -1,0 +1,7 @@
+
+INSERTED
+Faculty name:X
+Faculty ID:20-393797-1
+Faculty Working Fild:cse
+Faculty Salary:50000.0TK
+______________
